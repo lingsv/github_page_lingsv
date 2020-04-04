@@ -1,3 +1,3 @@
-# Portifólio de projetos e profissional
+# Portifólio profissional
 
 
