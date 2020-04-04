@@ -2,10 +2,11 @@ title: Portifólio
 author: Ana Carolina Gomes da Silva
 theme: jekyll-theme-architect
 description: > # this means to ignore newlines until "baseurl:"
-  # 
-  Portifólio pessoal.
+  Portifólio pessoal profissional.
 
 # social links
 github_username:  https://github.com/lingsv # DO NOT include the @ character, or else the build will fail!
+
+posts: https://github.com/lingsv/github_page_lingsv/tree/master/_posts
 
 show_excerpts: true # set to false to remove excerpts on the homepage
