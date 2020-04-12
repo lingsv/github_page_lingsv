@@ -9,4 +9,4 @@ github_username:  https://github.com/lingsv # DO NOT include the @ character, or
 
 posts: https://github.com/lingsv/github_page_lingsv/tree/master/_posts
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
